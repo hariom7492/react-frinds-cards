@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-frinds-cards/static/css/main.0fec849e.chunk.css",
+    "main.js": "/react-frinds-cards/static/js/main.b934b000.chunk.js",
+    "main.js.map": "/react-frinds-cards/static/js/main.b934b000.chunk.js.map",
+    "runtime-main.js": "/react-frinds-cards/static/js/runtime-main.31d6342e.js",
+    "runtime-main.js.map": "/react-frinds-cards/static/js/runtime-main.31d6342e.js.map",
+    "static/js/2.75d852b1.chunk.js": "/react-frinds-cards/static/js/2.75d852b1.chunk.js",
+    "static/js/2.75d852b1.chunk.js.map": "/react-frinds-cards/static/js/2.75d852b1.chunk.js.map",
+    "index.html": "/react-frinds-cards/index.html",
+    "precache-manifest.1a3bd539c678c8dd61b44ab737702f09.js": "/react-frinds-cards/precache-manifest.1a3bd539c678c8dd61b44ab737702f09.js",
+    "service-worker.js": "/react-frinds-cards/service-worker.js",
+    "static/css/main.0fec849e.chunk.css.map": "/react-frinds-cards/static/css/main.0fec849e.chunk.css.map",
+    "static/js/2.75d852b1.chunk.js.LICENSE.txt": "/react-frinds-cards/static/js/2.75d852b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d6342e.js",
+    "static/js/2.75d852b1.chunk.js",
+    "static/css/main.0fec849e.chunk.css",
+    "static/js/main.b934b000.chunk.js"
+  ]
+}
